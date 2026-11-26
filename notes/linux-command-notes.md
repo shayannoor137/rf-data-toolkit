@@ -1,0 +1,7 @@
+- `pwd`: shows the current working directory.
+- `cd`: changes directories.
+- `ls`: lists files and folders.
+- `cp`: copies files.
+- `mv`: moves or renames files.
+- `find`: searches for files.
+- `grep`: searches text inside files.
